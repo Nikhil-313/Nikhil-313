@@ -71,82 +71,96 @@ Practical projects focused on solving real-world problems through technology.
 
 # 🚀 Featured Projects
 
-### 🤖 ResumePilot AI
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**AI-powered career platform**
+<h3>🤖 ResumePilot AI</h3>
 
-ResumePilot AI is a production-deployed career platform designed to help users with resume analysis, ATS insights, job matching, and career assistance.
+AI-powered career platform for resume analysis, ATS insights, job matching, and career assistance.
 
-**Built with**
+<b>Tech:</b><br>
+<code>React.js</code> <code>Flask</code> <code>PostgreSQL</code> <code>Gemini API</code> <code>Docker</code>
 
-`React.js` `Flask` `PostgreSQL` `Gemini API` `Docker`
+<br><br>
 
-**Highlights**
+• AI-powered resume analysis and career assistance  
+• ATS analysis and job matching  
+• JWT authentication and RESTful backend  
 
-- AI-powered resume analysis and career assistance
-- ATS analysis and job matching
-- RESTful backend with PostgreSQL and JWT authentication
-- Deployed using Vercel and Render
+<br>
 
-**[View on GitHub →](https://github.com/Nikhil-313/resumepilot-ai)** · **[Live Demo →](https://resumepilot-ai-delta.vercel.app/)**
+<a href="https://github.com/Nikhil-313/resumepilot-ai">🔗 GitHub</a> &nbsp;·&nbsp;
+<a href="https://resumepilot-ai-delta.vercel.app/">🌐 Live Demo</a>
 
+</td>
 
-### 💳 Credit Card Fraud Detection
+<td width="50%" valign="top">
 
-**Machine Learning project**
+<h3>💳 Credit Card Fraud Detection</h3>
 
-A machine learning-based system for detecting fraudulent credit card transactions using Random Forest.
+Machine learning system for detecting fraudulent credit card transactions using Random Forest.
 
-**Built with**
+<b>Tech:</b><br>
+<code>Python</code> <code>Machine Learning</code> <code>Random Forest</code>
 
-`Python` `Machine Learning` `Random Forest`
+<br><br>
 
-**Highlights**
+• Transaction data preprocessing  
+• Feature engineering  
+• Model training and evaluation  
 
-- Transaction data preprocessing
-- Feature engineering
-- Machine learning model training
-- Model evaluation using classification metrics
+<br><br>
 
-**[View on GitHub →](https://github.com/Nikhil-313/credit-card-fraud-detection)**
+<a href="https://github.com/Nikhil-313/credit-card-fraud-detection">🔗 GitHub</a>
 
+</td>
+</tr>
 
-### 🏥 Medical Camp Assistant AI
+<tr>
+<td width="50%" valign="top">
 
-**AI-powered healthcare assistance application**
+<h3>🏥 Medical Camp Assistant AI</h3>
 
-An AI-powered assistant built to support patient registration and user interaction in medical camp scenarios.
+AI-powered healthcare assistant designed for patient registration and user support.
 
-**Built with**
+<b>Tech:</b><br>
+<code>Python</code> <code>Gemini API</code> <code>Streamlit</code>
 
-`Python` `Gemini API` `Streamlit`
+<br><br>
 
-**Highlights**
+• AI-powered intelligent responses  
+• Patient registration and user support  
+• Interactive Streamlit interface  
 
-- Patient registration and user support
-- Gemini-powered intelligent responses
-- Interactive Streamlit interface
+<br><br>
 
-**[View on GitHub →](https://github.com/Nikhil-313/medical-camp-assistant-ai)**
+<a href="https://github.com/Nikhil-313/medical-camp-assistant-ai">🔗 GitHub</a>
 
+</td>
 
-### 🏢 Leave Management System
+<td width="50%" valign="top">
 
-**Full-stack leave management application**
+<h3>🏢 Leave Management System</h3>
 
-A web application for managing leave workflows with authentication and role-based approvals.
+Full-stack leave management platform with authentication and role-based approval workflows.
 
-**Built with**
+<b>Tech:</b><br>
+<code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>AWS</code>
 
-`Node.js` `Express.js` `MongoDB` `AWS`
+<br><br>
 
-**Highlights**
+• Secure authentication  
+• Role-based leave approvals  
+• REST APIs and MongoDB integration  
 
-- Secure authentication
-- Role-based leave approval workflows
-- REST APIs and MongoDB integration
-- AWS deployment
+<br><br>
 
+<a href="https://github.com/Nikhil-313">🔗 GitHub</a>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack

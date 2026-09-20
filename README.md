@@ -248,20 +248,16 @@ Anchored **Voice of Hyderabad 2026**, engaging with participants and supporting 
 
 <p align="center">
   <img height="165"
-       src="https://github-readme-stats.shion.dev/api?username=Nikhil-313&theme=dark&hide_border=true&include_all_commits=true&count_private=false"
+       src="https://github-readme-stats.shion.dev/api?username=Nikhil-313&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
        alt="GitHub Stats"/>
   <img height="165"
-       src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nikhil-313&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"
+       src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nikhil-313&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
        alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Nikhil-313&theme=dark&hide_border=true"
        alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <b>GitHub Readme Stats Rank · B-</b>
 </p>
 
 ---

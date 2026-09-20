@@ -1,27 +1,245 @@
-# 💫 About Me:
-👨‍💻 B.E. IT student at CBIT<br><br>🤖 AI/ML & Generative AI enthusiast<br><br>🚀 Building practical AI and full-stack projects<br><br>🌱 Currently learning Machine Learning, Deep Learning, and DSA
+<div align="center">
 
+👋 Hi, I'm Nikhil Akkenapally
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-akkenapally) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akkenapallynikhil313@gmail.com) 
+AI/ML Enthusiast • Software Developer • B.E. IT @ CBIT
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nikhil-313&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nikhil-313&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nikhil-313&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <a href="https://github.com/Nikhil-313">
+    <img src="https://komarev.com/ghpvc/?username=Nikhil-313&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Nikhil-313">
+    <img src="https://img.shields.io/github/followers/Nikhil-313?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://nikhil-313.github.io/portfolio-website/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=flat&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nikhil-313&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <a href="https://www.linkedin.com/in/nikhil-akkenapally/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:akkenapallynikhil313@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nikhil-313&limit=5&theme=dark&combine_all_yearly_contributions=true)
+👨‍💻 About Me
 
----
-[![](https://komarev.com/ghpvc/?username=Nikhil-313&icon=0&color=0)](https://visitcount.itsvg.in)
+I'm an Information Technology undergraduate at Chaitanya Bharathi Institute of Technology (CBIT) with a strong interest in Artificial Intelligence, Machine Learning, Generative AI, and Software Development.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🎓 B.E. Information Technology @ CBIT — CGPA: 9.42
+
+🤖 Building practical AI/ML and full-stack applications
+
+💼 AI Developer Intern experience at Viswam AI
+
+🧠 Strengthening Machine Learning, Deep Learning, DSA, and problem solving
+
+🚀 Interested in turning ideas into reliable, real-world software
+
+🌐 Portfolio
+
+🛠️ Tech Stack
+
+👨‍💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
+
+🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+🌐 Full-Stack Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+🗄️ Databases & Tools
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🤖 ResumePilot AI
+
+AI-powered career platform for resume analysis and career assistance.
+
+React.js • Flask • PostgreSQL • Gemini API • Docker
+
+ATS analysis and job matching
+
+AI-powered resume parsing and career assistance
+
+JWT authentication and RESTful backend
+
+Deployed with Vercel and Render
+
+<a href="https://github.com/Nikhil-313/resumepilot-ai">🔗 GitHub</a> •
+<a href="https://resumepilot-ai-delta.vercel.app/">🌐 Live Demo</a>
+
+</td>
+<td width="50%" valign="top">
+
+💳 Credit Card Fraud Detection
+
+Machine learning system for detecting fraudulent credit card transactions.
+
+Python • Machine Learning • Random Forest
+
+Transaction data preprocessing
+
+Feature engineering
+
+Model training and evaluation
+
+Classification-based fraud detection
+
+<a href="https://github.com/Nikhil-313/credit-card-fraud-detection">🔗 GitHub</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🏥 Medical Camp Assistant AI
+
+AI-powered assistant for medical camp support and patient interaction.
+
+Python • Gemini API • Streamlit
+
+Patient registration and user support
+
+Gemini-powered intelligent responses
+
+Interactive Streamlit interface
+
+<a href="https://github.com/Nikhil-313/medical-camp-assistant-ai">🔗 GitHub</a>
+
+</td>
+<td width="50%" valign="top">
+
+🏢 Leave Management System
+
+Full-stack leave management platform with secure role-based workflows.
+
+Node.js • Express.js • MongoDB • AWS
+
+Authentication and role-based approvals
+
+REST APIs and MongoDB integration
+
+Cloud deployment
+
+</td>
+</tr>
+</table>
+
+💼 Experience
+
+AI Developer Intern — Viswam AI
+
+May 2025 – June 2025
+
+Developed AI applications using LLMs, Prompt Engineering, and Generative AI
+
+Built AI-powered solutions using Python and REST APIs
+
+Worked on debugging, testing, and performance optimization
+
+Collaborated on practical AI automation projects
+
+🎓 Education
+
+Chaitanya Bharathi Institute of Technology (CBIT)
+B.E. — Information Technology | CGPA: 9.42
+
+VMR Polytechnic College
+Diploma — Computer Science & Engineering | CGPA: 9.90
+
+🏆 Certifications
+
+MongoDB Certified Associate Developer
+
+Salesforce Certified Agentforce Specialist
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=Nikhil-313&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Nikhil's GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nikhil-313&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nikhil-313&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <b>GitHub Readme Stats Rank: B-</b>
+</p>
+
+🤝 Leadership & Activities
+
+Chaitanya Spandana Club — Volunteer & Event Anchor
+
+Contributed to organizing and conducting college and external events through effective teamwork and coordination.
+
+Anchored Voice of Hyderabad 2026, engaging with participants and supporting the successful conduct of the event.
+
+🌐 Let's Connect
+
+<p align="center">
+<a href="https://github.com/Nikhil-313"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nikhil-akkenapally/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://nikhil-313.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="mailto:akkenapallynikhil313@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<div align="center">
+
+🚀 Building • Learning • Improving
+
+⭐ Thanks for visiting my profile!
+
+</div>

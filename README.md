@@ -69,50 +69,58 @@ Practical projects focused on solving real-world problems through technology.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤖 ResumePilot AI</h3>
+### 🤖 ResumePilot AI
 
-AI-powered career platform for resume analysis, ATS insights, job matching, and career assistance.
+**AI-Powered Career Platform**
 
-<b>Tech:</b><br>
-<code>React.js</code> <code>Flask</code> <code>PostgreSQL</code> <code>Gemini API</code> <code>Docker</code>
+An AI-powered platform for resume analysis, ATS insights, job matching, and career assistance.
 
-<br><br>
+**Tech Stack**
 
-• AI-powered resume analysis and career assistance  
-• ATS analysis and job matching  
-• JWT authentication and RESTful backend  
+`React.js` `Flask` `PostgreSQL`  
+`Gemini API` `Docker`
 
-<br>
+**✨ Highlights**
 
-<a href="https://github.com/Nikhil-313/resumepilot-ai">🔗 GitHub</a> &nbsp;·&nbsp;
-<a href="https://resumepilot-ai-delta.vercel.app/">🌐 Live Demo</a>
+- 📄 AI-powered resume analysis
+- 🎯 ATS analysis & job matching
+- 🔐 JWT authentication
+- ⚙️ RESTful backend architecture
+
+**[🔗 GitHub](https://github.com/Nikhil-313/resumepilot-ai)**  
+**[🌐 Live Demo](https://resumepilot-ai-delta.vercel.app/)**
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>💳 Credit Card Fraud Detection</h3>
+### 💳 Credit Card Fraud Detection
 
-Machine learning system for detecting fraudulent credit card transactions using Random Forest.
+**Machine Learning System**
 
-<b>Tech:</b><br>
-<code>Python</code> <code>Machine Learning</code> <code>Random Forest</code>
+A machine learning system designed to detect fraudulent credit card transactions using Random Forest.
 
-<br><br>
+**Tech Stack**
 
-• Transaction data preprocessing  
-• Feature engineering  
-• Model training and evaluation  
+`Python` `Machine Learning`  
+`Random Forest` `Scikit-learn`
 
-<br><br>
+**✨ Highlights**
 
-<a href="https://github.com/Nikhil-313/credit-card-fraud-detection">🔗 GitHub</a>
+- 🧹 Transaction data preprocessing
+- ⚙️ Feature engineering
+- 🌲 Random Forest classification
+- 📊 Model performance evaluation
+
+**[🔗 GitHub](https://github.com/Nikhil-313/credit-card-fraud-detection)**
 
 </td>
 </tr>
@@ -120,47 +128,55 @@ Machine learning system for detecting fraudulent credit card transactions using 
 <tr>
 <td width="50%" valign="top">
 
-<h3>🏥 Medical Camp Assistant AI</h3>
+### 🏥 Medical Camp Assistant AI
 
-AI-powered healthcare assistant designed for patient registration and user support.
+**AI Healthcare Assistant**
 
-<b>Tech:</b><br>
-<code>Python</code> <code>Gemini API</code> <code>Streamlit</code>
+An AI-powered assistant designed to support patient registration, user interaction, and organized healthcare assistance.
 
-<br><br>
+**Tech Stack**
 
-• AI-powered intelligent responses  
-• Patient registration and user support  
-• Interactive Streamlit interface  
+`Python` `Gemini API`  
+`Streamlit`
 
-<br><br>
+**✨ Highlights**
 
-<a href="https://github.com/Nikhil-313/medical-camp-assistant-ai">🔗 GitHub</a>
+- 🤖 Intelligent AI responses
+- 🧑‍⚕️ Patient registration support
+- 💬 Context-aware interaction
+- 🖥️ Interactive Streamlit interface
+
+**[🔗 GitHub](https://github.com/Nikhil-313/medical-camp-assistant-ai)**
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🏢 Leave Management System</h3>
+### 🏢 Leave Management System
 
-Full-stack leave management platform with authentication and role-based approval workflows.
+**Full-Stack Web Application**
 
-<b>Tech:</b><br>
-<code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>AWS</code>
+A full-stack platform for managing employee leave requests with secure authentication and role-based approval workflows.
 
-<br><br>
+**Tech Stack**
 
-• Secure authentication  
-• Role-based leave approvals  
-• REST APIs and MongoDB integration  
+`Node.js` `Express.js`  
+`MongoDB` `AWS`
 
-<br><br>
+**✨ Highlights**
 
-<a href="https://github.com/Nikhil-313">🔗 GitHub</a>
+- 🔐 Secure authentication
+- 👥 Role-based access control
+- 📋 Leave approval workflows
+- ☁️ AWS deployment
+
+**[🔗 GitHub](https://github.com/Nikhil-313/leave-management-system)**
 
 </td>
 </tr>
 </table>
+
+</div>
 ---
 
 ## 🛠️ Tech Stack
